@@ -6,7 +6,7 @@ This project focuses on **exploratory data analysis (EDA)** of the Pima Indians 
 
 ## 📊 Dataset
 
-- **Source**: [Pima Indians Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- **Source**: [DATASET](https://www.kaggle.com/datasets/vbmokin/prediction-bod-in-river-water)
 - **Features**:
   - Pregnancies
   - Glucose

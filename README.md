@@ -48,6 +48,3 @@ This project focuses on **exploratory data analysis (EDA)** of the Pima Indians 
 - Demonstrated basic EDA workflow suitable for data science beginners
 
 ---
-
-## 📁 Folder Structure
-
